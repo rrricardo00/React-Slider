@@ -1,11 +1,10 @@
-# React-Slider
 
-Simples Slider with react
+<h2>Simples Slider with react</h2>
 
 For test:
 
--Clone
--Npm install
+-Clone<br/>
+-Npm install<br/>
 -Npm Run Dev
 
 Hope you like
